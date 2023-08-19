@@ -4,7 +4,7 @@ Submitted by: **Marie Fadeyeva**
 
 **Background Change Button App** is an app that changes the background color of the screen to a random color with the tap of a button.
 
-Time spent: 2 hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -17,19 +17,15 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://https://imgur.com/cYzqzxI.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Kap
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+My biggest challenge was selecting the wrong type of app when initially creating the project - I was working with "Multiplatform" instead of iOS. The developer's screen looked different than the walkthrough, and only after joining the Slack support channel was I able to figure out my mistake. After I set up the project correctly I had no issues with completing the project. 
 
 ## License
 
